@@ -6,3 +6,7 @@
 	path = public
 	url = https://github.com/edwardgallyot/edwardgallyot.github.io.git
 	branch = main
+[submodule "edwardgallyotportfolio/public/public"]
+	path = edwardgallyotportfolio/public/public
+	url = https://github.com/edwardgallyot/edwardgallyot.github.io.git
+	branch = main
