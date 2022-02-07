@@ -1,0 +1,4 @@
+[submodule "edwardgallyotportfolio/public/edwardgallyot.github.io"]
+	path = edwardgallyotportfolio/public/edwardgallyot.github.io
+	url = https://github.com/edwardgallyot/edwardgallyot.github.io.git
+	branch = main
