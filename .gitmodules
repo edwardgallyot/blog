@@ -2,3 +2,7 @@
 	path = edwardgallyotportfolio/public/edwardgallyot.github.io
 	url = https://github.com/edwardgallyot/edwardgallyot.github.io.git
 	branch = main
+[submodule "public"]
+	path = public
+	url = https://github.com/edwardgallyot/edwardgallyot.github.io.git
+	branch = main
